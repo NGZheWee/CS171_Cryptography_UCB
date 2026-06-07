@@ -19,4 +19,6 @@ This repository contains coursework from **CS171: Cryptography**, which I took i
 - **Homework**: All homework assignments are located under the `Homework/` directory, each containing code and solutions for cryptography-related problems, including encryption/decryption exercises and protocol analysis.
 
 
-Explore the coursework to see practical applications of cryptographic principles and protocols, focusing on securing data and communications through encryption techniques.
+## Academic Integrity Note
+
+This repository contains my own coursework submissions and related learning artifacts, shared for portfolio review only; do not copy or submit this material for active or future coursework, and follow your institution's academic integrity policies.
